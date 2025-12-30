@@ -10,7 +10,7 @@ import prgram_icon_3 from '../../assets/self-directed-learning.png'
 
 const Programs = () => {
   return (
-    <div className = 'programs'>
+    <div className = 'programs' id = 'Programs'>
       <div className="program">
         <img src = {program_1} alt = ""/>
         <div className="caption">
